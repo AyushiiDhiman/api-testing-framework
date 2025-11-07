@@ -1,0 +1,7 @@
+{
+    "new_post": {
+        "title": "Hello API",
+        "body": "This is a test post",
+        "userId": 1
+    }
+}
